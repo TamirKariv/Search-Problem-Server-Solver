@@ -1,0 +1,206 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tamir/Desktop/git/advanced prog 2/src/AStar.h
+vector
+-
+list
+-
+Searcher.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/BFS.h
+Searchable.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searchable.h
+vector
+-
+list
+-
+Vertex.h
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+Searcher.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/BestFirstSearch.h
+Vertex.h
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+Searcher.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h
+vector
+-
+list
+-
+
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+map
+-
+string
+-
+
+/home/tamir/Desktop/git/advanced prog 2/src/ClientHandler.h
+vector
+-
+string
+-
+map
+-
+CacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+MySolver.h
+/home/tamir/Desktop/git/advanced prog 2/src/MySolver.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/DFS.h
+Vertex.h
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+Searcher.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h
+vector
+-
+list
+-
+
+/home/tamir/Desktop/git/advanced prog 2/src/DataReaderServer.h
+iostream
+-
+Server.h
+/home/tamir/Desktop/git/advanced prog 2/src/Server.h
+pthread.h
+-
+thread
+-
+netinet/in.h
+-
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+string.h
+-
+MySolver.h
+/home/tamir/Desktop/git/advanced prog 2/src/MySolver.h
+netdb.h
+-
+ServerClientArgs.h
+/home/tamir/Desktop/git/advanced prog 2/src/ServerClientArgs.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/FileCacheManager.h
+CacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/MatrixSearchable.h
+Vertex.h
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+vector
+-
+string
+-
+Searchable.h
+/home/tamir/Desktop/git/advanced prog 2/src/Searchable.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/MySerialServer.h
+iostream
+-
+Server.h
+/home/tamir/Desktop/git/advanced prog 2/src/Server.h
+pthread.h
+-
+thread
+-
+netinet/in.h
+-
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+string.h
+-
+MySolver.h
+/home/tamir/Desktop/git/advanced prog 2/src/MySolver.h
+netdb.h
+-
+ServerClientArgs.h
+/home/tamir/Desktop/git/advanced prog 2/src/ServerClientArgs.h
+DataReaderServer.h
+/home/tamir/Desktop/git/advanced prog 2/src/DataReaderServer.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/MySolver.h
+Solver.h
+/home/tamir/Desktop/git/advanced prog 2/src/Solver.h
+FileCacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/FileCacheManager.h
+vector
+-
+
+/home/tamir/Desktop/git/advanced prog 2/src/MyTestClientHandler.h
+ClientHandler.h
+/home/tamir/Desktop/git/advanced prog 2/src/ClientHandler.h
+CacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+Solver.h
+/home/tamir/Desktop/git/advanced prog 2/src/Solver.h
+FileCacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/FileCacheManager.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/Searchable.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h
+Vertex.h
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+vector
+-
+
+/home/tamir/Desktop/git/advanced prog 2/src/Server.h
+ClientHandler.h
+/home/tamir/Desktop/git/advanced prog 2/src/ClientHandler.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/ServerClientArgs.h
+ClientHandler.h
+/home/tamir/Desktop/git/advanced prog 2/src/ClientHandler.h
+CacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/Solver.h
+string
+-
+CacheManager.h
+/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h
+
+/home/tamir/Desktop/git/advanced prog 2/src/main.cpp
+iostream
+-
+MatrixSearchable.h
+/home/tamir/Desktop/git/advanced prog 2/src/MatrixSearchable.h
+DFS.h
+/home/tamir/Desktop/git/advanced prog 2/src/DFS.h
+BestFirstSearch.h
+/home/tamir/Desktop/git/advanced prog 2/src/BestFirstSearch.h
+BFS.h
+/home/tamir/Desktop/git/advanced prog 2/src/BFS.h
+AStar.h
+/home/tamir/Desktop/git/advanced prog 2/src/AStar.h
+MyTestClientHandler.h
+/home/tamir/Desktop/git/advanced prog 2/src/MyTestClientHandler.h
+Server.h
+/home/tamir/Desktop/git/advanced prog 2/src/Server.h
+vector
+-
+string
+-
+MySerialServer.h
+/home/tamir/Desktop/git/advanced prog 2/src/MySerialServer.h
+

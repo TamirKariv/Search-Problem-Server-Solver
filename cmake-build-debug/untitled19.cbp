@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled19"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled19">
+				<Option output="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug/untitled19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled19"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled19/fast">
+				<Option output="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug/untitled19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tamir/Desktop/git/advanced prog 2/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled19/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tamir/Desktop/git/advanced\ prog\ 2/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/AStar.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/AStar.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/BFS.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/BFS.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/BestFirstSearch.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/BestFirstSearch.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/CacheManager.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/ClientHandler.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DFS.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DFS.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DataReaderClient.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DataReaderClient.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DataReaderServer.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/DataReaderServer.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/FileCacheManager.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/FileCacheManager.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MatrixSearchable.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MatrixSearchable.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MySerialServer.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MySerialServer.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MySolver.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MySolver.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MyTestClientHandler.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/MyTestClientHandler.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Searchable.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Searcher.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Server.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/ServerClientArgs.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Solver.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Vertex.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/Vertex.h">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/main.cpp">
+			<Option target="untitled19"/>
+		</Unit>
+		<Unit filename="/home/tamir/Desktop/git/advanced prog 2/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
